@@ -130,7 +130,7 @@ GetPlugin = function( a, b, c, d )
   -- Other Plugin Things
   do end
 
-  RequestPermission(Plugin, 'sex')
+  RequestPermission(Plugin, 'Title')
 
   require(PluginScript)(
     setmetatable(
